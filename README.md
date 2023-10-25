@@ -1,5 +1,9 @@
 # The Sky Is The Limit
-
+Team Members:
+Emil: Builder, Planner, Coder
+Eli: Builder, Planner, Documenter, Assistant Coder
+Aidan: Builder, Planner
+Preiston: Documenter
 Original Plan:
 
 1. Title and description of chassis: X-Drive

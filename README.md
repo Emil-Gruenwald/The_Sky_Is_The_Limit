@@ -3,7 +3,7 @@ Team Members:
 1. -Emil: Builder, Planner, Coder
 2. -Eli: Builder, Planner, Documenter, Assistant Coder
 3. -Aidan: Builder, Planner
-4. -Preiston: Assistant Documenter/ Main TikToker
+4. -Preiston: Assistant Documenter/ Main TikTok Watcher
 
 Original Plan:
 

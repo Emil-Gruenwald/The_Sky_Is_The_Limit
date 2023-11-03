@@ -8,7 +8,7 @@ Team Members:
 3. Aidan: Builder, Planner
 4. Preiston: Assistant Documenter
 
-Drivetrain Pictures
+Drivetrain Pictures:
 ![Robot Front](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotFront.jpg?raw=true)
 ![Robot Side](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotSide.jpg?raw=true)
 ![Robot Top](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotTop.jpg?raw=true)

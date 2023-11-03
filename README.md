@@ -10,7 +10,7 @@ Team Members:
 
 Completed Launcher:
 ![Robot With Launcher](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotCompleteLauncher.jpg?raw=true)
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=A6mhHTRiegk))
+[![IMAGE ALT TEXT HERE](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotCompleteLauncher.jpg?raw=true)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=A6mhHTRiegk))
 
 
 Launcher in Progress:

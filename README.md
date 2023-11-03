@@ -8,6 +8,12 @@ Team Members:
 3. Aidan: Builder, Planner
 4. Preiston: Assistant Documenter, Main Tiktok watcher
 
+Completed Launcher:
+![Robot With Launcher](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotCompleteLauncher.jpg?raw=true)
+
+Launcher in Progress:
+![Incomplete Launcher](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotLauncherInProgress.jpg?raw=true)
+
 Pictures of Drivetrain, Without Catapult:
 ![Robot Front](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotFront.jpg?raw=true)
 ![Robot Side](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotSide.jpg?raw=true)

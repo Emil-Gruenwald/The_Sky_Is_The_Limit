@@ -13,7 +13,7 @@ Drivetrain Pictures:
 ![Robot Side](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotSide.jpg?raw=true)
 ![Robot Top](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotTop.jpg?raw=true)
 
-Updaded Plan:
+Updated Plan:
 
 1. Ontop of the Holonomic Drive Frame, we also have a slip gear slingshot powered by two motors and elastic bands.
 2. We will have a basic lifs ststem made of one or two motors, which will be optimized for maximum torque. They will power a frame that latches on to the elevation bar.

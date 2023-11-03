@@ -8,6 +8,11 @@ Team Members:
 3. Aidan: Builder, Planner
 4. Preiston: Assistant Documenter
 
+Drivetrain Pictures
+![Robot Front](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotFront.jpg?raw=true)
+![Robot Side](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotSide.jpg?raw=true)
+![Robot Top](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotTop.jpg?raw=true)
+
 Updaded Plan:
 
 1. Ontop of the Holonomic Drive Frame, we also have a slip gear slingshot powered by two motors and elastic bands.

@@ -6,7 +6,7 @@ Team Members:
 1. Emil: Builder, Planner, Coder
 2. Eli: Builder, Planner, Documenter, Assistant Coder
 3. Aidan: Builder, Planner
-4. Preiston: Assistant Documenter
+4. Preiston: Assistant Documenter, Main Tiktok watcher
 
 Pictures of Drivetrain, Without Catapult:
 ![Robot Front](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotFront.jpg?raw=true)

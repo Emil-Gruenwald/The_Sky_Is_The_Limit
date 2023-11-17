@@ -8,6 +8,12 @@ Team Members:
 3. Aidan: Builder, Planner
 4. Preiston: Assistant Documenter, Main Tiktok watcher
 
+PRIORITY LIST BEFORE DECEMBER!!!:
+1. Finish optimising the arm code
+2. Autonomous
+3. Elevation bar
+
+
 Completed Launcher:
 ![Robot With Launcher](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotCompleteLauncher.jpg?raw=true)
 [![IMAGE ALT TEXT HERE](https://github.com/Emil-Gruenwald/The_Sky_Is_The_Limit/blob/main/images/RobotCompleteLauncher.jpg?raw=true)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=A6mhHTRiegk))

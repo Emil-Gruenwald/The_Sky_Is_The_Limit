@@ -4,8 +4,8 @@ Go to Channel: https://www.youtube.com/@EliSlovik
 # The Sky Is The Limit
 Team Members:
 1. Emil: Builder, Planner, Coder
-2. Eli: Builder, Planner, Documenter, Assistant Coder
-3. Aidan: Builder, Planner
+2. Eli: Builder, Planner, Documenter, Coder
+3. Aidan: Builder, Planner, Coder
 4. Preiston: Assistant Documenter, Main Tiktok watcher
 
 PRIORITY LIST BEFORE DECEMBER!!!:
